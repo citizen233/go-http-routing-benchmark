@@ -11,7 +11,7 @@ require (
 	github.com/dimfeld/httptreemux v5.0.1+incompatible
 	github.com/emicklei/go-restful/v3 v3.1.0
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/citizen233/gin fix-tree
+	github.com/gin-gonic/gin v1.7.4
 	github.com/go-chi/chi v4.1.1+incompatible
 	github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab
 	github.com/go-playground/form v3.1.4+incompatible // indirect
@@ -24,6 +24,7 @@ require (
 	github.com/gowww/router v0.0.0-20180327195201-5f9c626ef619
 	github.com/gravitational/trace v1.1.11 // indirect
 	github.com/jonboulle/clockwork v0.1.0 // indirect
+	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/julienschmidt/httprouter v1.3.1-0.20200114094804-8c9f31f047a3
 	github.com/labstack/echo/v4 v4.1.16
 	github.com/lunny/log v0.0.0-20160921050905-7887c61bf0de
@@ -53,7 +54,6 @@ require (
 	github.com/vulcand/predicate v1.1.0 // indirect
 	github.com/zenazn/goji v0.9.0
 	goji.io v2.0.2+incompatible
-	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79 // indirect
 	golang.org/x/net v0.0.0-20200506145744-7e3656a0809f // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
