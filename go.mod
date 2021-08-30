@@ -60,3 +60,5 @@ require (
 	gopkg.in/ini.v1 v1.55.0 // indirect
 	gopkg.in/macaron.v1 v1.3.6
 )
+
+replace github.com/gin-gonic/gin v1.7.4 => github.com/citizen233/gin fix-tree
