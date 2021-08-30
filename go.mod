@@ -11,7 +11,7 @@ require (
 	github.com/dimfeld/httptreemux v5.0.1+incompatible
 	github.com/emicklei/go-restful/v3 v3.1.0
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/citizen233/gin@fix-tree
+	github.com/citizen233/gin fix-tree
 	github.com/go-chi/chi v4.1.1+incompatible
 	github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab
 	github.com/go-playground/form v3.1.4+incompatible // indirect
